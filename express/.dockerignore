@@ -1,0 +1,4 @@
+node_modules
+.git
+.gititnore
+npm-debag.log
